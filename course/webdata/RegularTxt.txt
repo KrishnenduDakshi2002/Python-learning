@@ -1,0 +1,14 @@
+From: My-email-my-name-assignment-type : krishnendu Dakshi,Kdakshi2018@gmail.com,Mathematics
+From: My-email-my-name-assignment-type : Soma Dakshi,sdakshi2018@gmail.com,English
+From: My-email-my-name-assignment-type : Rahul Pal,R.pal123@outlook.com,Geography
+From: My-email-my-name-assignment-type : Shruti Dakshi,Shruti.dakshi220@yahoo.com,History
+From: My-email-my-name-assignment-type : Sanjana Rawat,Sanjana_Rawat@hotmail.com,Mechine learning
+From: My-email-my-name-assignment-type : Anjali kumar,Anjali_kr34@gmail.com,Data science
+From: My-email-my-name-assignment-type : Satyajeet Parikh,Satyajeet.Parikh@outlook.com,Deep learning
+From: My-email-my-name-assignment-type : Harry kr. Paul,Harrish2015@yahoo.com,Computer vision
+
+From: My-email_my-name-assignment-type : Teena Makhina,TMakhina@hotmail.com,Internet of things
+From: My-email-my-name_assignment-type : Tanju Mukherjee,TanjuMk12@gmail.com,Internet of things
+From: My-email_my-name-assignment-type : Sankar Neeman,sankar@outlook.com,Internet of things
+From: My-email:my-name-assignment-type : Abhimukh Banerjee,AB123@outlook.com,Internet of things
+

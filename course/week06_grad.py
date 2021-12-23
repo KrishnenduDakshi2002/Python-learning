@@ -20,4 +20,3 @@ listHours=sorted(listHours,reverse=False)
 
 for itr in listHours:
     print(itr[0],itr[1])
-

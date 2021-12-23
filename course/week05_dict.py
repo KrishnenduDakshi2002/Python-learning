@@ -4,8 +4,8 @@ def find_max(emails):
     keyValue = ' '
     for key in emails:
         if emails[key] > maxValue:
-            maxValue=emails[key]
-            keyValue=key
+            maxValue=emails[key] #stoing the maximum value into maxValue
+            keyValue=key #key the key releted to the maxvalue
         else:
             continue
     
