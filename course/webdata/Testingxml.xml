@@ -1,0 +1,45 @@
+
+<account>
+    <gmail x = '1'>
+        <account_name>
+            kdakshi2018@gmail.com
+        </account_name>
+        <name>
+            krishnendu Dakshi
+        </name>
+        <date>2018</date>
+        <used>youtube</used>
+    </gmail>
+    <gmail x = '1'>
+        <account_name>
+            kdakshi2020@gmail.com
+        </account_name>
+        <name>
+            krishnendu Dakshi @ 2020
+        </name>
+        <date>2020</date>
+        <used>youtube</used>
+        <used>GMAIL</used>
+    </gmail>
+    <icloud x='1'>
+        <account_name>
+            kdakshi2021icloud.com
+        </account_name>
+        <name>
+            Sunny Dakshi
+        </name>
+        <date>2021</date>
+        <used>Apple appstore</used>
+
+    </icloud>
+    <outlook x='2'>
+        <account_name>
+            dakshik2002outlook.com
+        </account_name>
+        <name>
+            Sourav Dakshi
+        </name>
+        <date>2018</date>
+        <used>onenote</used>
+    </outlook>
+</account>
