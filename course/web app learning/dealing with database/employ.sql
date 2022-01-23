@@ -1,0 +1,3 @@
+
+SELECT * FROM emp;
+-- DELETE FROM emp WHERE ID=1;

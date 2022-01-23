@@ -1,0 +1,293 @@
+id,title,album_id,genre_id,len,rating,count
+1,Another One Bites The Dust,1,1,217103,100,55
+2,Asche Zu Asche,2,2,231810,100,79
+3,Beauty School Dropout,3,3,239960,100,48
+4,Black Dog,4,1,296620,100,109
+5,Bring The Boys Back Home,5,1,87118,100,33
+6,Circles,6,6,355369,60,54
+7,Comfortably Numb,5,1,384130,100,36
+8,Crazy Little Thing Called Love,1,1,163631,100,38
+9,Electric Funeral,9,9,293015,100,44
+10,Fat Bottomed Girls,1,1,257515,100,38
+11,For Those About To Rock (We Salute You),11,1,353750,100,84
+12,Four Sticks,4,1,284421,100,84
+13,Furious Angels,13,3,330004,100,54
+14,Gelle,6,14,199836,60,45
+15,Going To California,4,1,215666,100,100
+16,Grease,3,3,205792,100,42
+17,Hand of Doom,9,9,429609,100,36
+18,Hells Bells,11,1,312946,100,82
+19,Hey You,5,1,282305,100,23
+20,I Worry,6,14,341315,100,33
+21,Iron Man,9,9,358530,100,39
+22,Is There Anybody Out There?,5,1,160679,100,26
+23,It was a Very Good Year,1,23,268852,100,39
+24,Its Your Move,6,14,245002,100,40
+25,Jack the Stripper/Fairies Wear Boots,9,9,373995,100,35
+26,Killer Queen,1,1,181368,100,34
+27,Laichzeit,2,2,262844,100,41
+28,Let me Down Easy,6,14,331441,100,43
+29,Misty Mountain Hop,4,1,278831,100,88
+30,No Low Down,6,14,245760,100,39
+31,Now You Are Gone,1,23,187559,100,52
+32,Outside The Wall,5,1,104437,100,16
+33,Paranoid,9,9,172930,100,36
+34,Planet Caravan,9,9,274938,100,38
+35,Pretty Jeanie,6,14,225175,100,34
+36,Rammstein,2,2,265090,100,45
+37,Rat Salad,9,9,150230,100,46
+38,Rock & Roll,4,1,220891,100,109
+39,Rode Across the Desert,1,23,249887,100,60
+40,Sandy,3,3,155742,100,36
+41,Shake Your Foundations,11,1,233769,100,85
+42,Sister Golden Hair,1,23,202057,100,60
+43,Somebody To Love,1,1,297586,100,17
+44,Stairway To Heaven,4,1,481567,100,93
+45,Strangers in the Night,1,23,158484,100,42
+46,Summer Nights,3,3,216973,100,35
+47,Summer Wind,1,23,177554,100,46
+48,Thats Life,1,23,189988,100,43
+49,The Battle Of Evermore,4,1,351529,100,110
+50,"The Blues ""Is""",6,14,252238,100,45
+51,There it Is,6,14,395441,100,35
+52,Think,6,14,320339,100,41
+53,This Town,1,23,185051,100,44
+54,Tin Man,1,23,210076,100,50
+55,Track 01,55,14,261825,100,47
+56,Track 02,55,14,165459,100,42
+57,Track 03,55,14,206471,100,41
+58,Messin with the Kid,58,14,226377,100,23
+59,Track 04,55,14,257175,100,37
+60,Stormy Monday,58,14,464143,100,29
+61,Track 05,55,14,230295,100,42
+62,Waiting on Ice,6,14,289384,100,37
+63,War Pigs/Luke's Wall,9,9,478197,100,38
+64,We Are The Champions,1,1,181864,100,24
+65,We Will Rock You,1,1,123559,100,33
+66,When Somebody Loves You,1,23,117263,100,43
+67,When The Levee Breaks,4,1,427624,100,83
+68,You are the One that I Want,3,3,169900,100,31
+69,You Done Me Wrong,6,14,200097,100,35
+70,You Shook Me All Night Long,11,1,210938,100,92
+71,You're My Best Friend,1,1,172643,100,31
+72,Zion,13,3,273528,100,47
+73,Who Made Who,11,1,207203,100,110
+74,D.T.,11,1,173714,NULL,90
+75,Sink the Pink,11,1,253466,NULL,83
+76,Ride On,11,1,351268,NULL,75
+77,Chase the Ace,11,1,181420,NULL,93
+78,Wollt Ihr Das Bett In Flammen Sehen,2,2,317387,NULL,50
+79,Der Meister,2,2,250801,NULL,46
+80,Weisses Fleisch,2,2,215902,NULL,52
+81,Seemann,2,2,288235,NULL,34
+82,Du Riechst So Gut,2,2,289332,NULL,50
+83,Das Alte Leid,2,2,344581,NULL,46
+84,Heirate Mich,2,2,284734,NULL,39
+85,Herzeleid,2,2,223425,NULL,42
+86,Baba O'Riley,86,1,298448,NULL,45
+87,Bargain,86,1,331676,NULL,37
+88,Love Ain't for Keeping,86,1,130560,NULL,24
+89,My Wife,86,1,213786,NULL,17
+90,The Song Is Over,86,1,375797,NULL,14
+91,Getting In Tune,86,1,288809,NULL,27
+92,Going Mobile,86,1,221910,100,28
+93,Behind Blue Eyes,86,1,221570,NULL,43
+94,Won't Get Fooled Again,86,1,511111,NULL,21
+95,Folsom Prison Blues,95,95,170004,100,47
+96,I Walk The Line,95,95,165720,100,33
+97,Get Rhythm,95,95,134530,100,35
+98,Big River,95,95,152711,NULL,51
+99,Guess Things Happen That Way,95,95,111386,NULL,35
+100,Ring Of Fire,95,95,157100,100,30
+101,Jackson,95,95,166530,100,35
+102,A Boy Named Sue (live),95,95,226063,NULL,37
+103,You Raise Me Up,103,103,302262,NULL,9
+104,"Hold On, I'm Coming",104,14,282566,100,34
+105,Got my Mojo Working,104,14,310517,100,52
+106,Sweet Home Chicago,104,14,375849,100,27
+107,Heavy Love,104,14,253544,100,28
+108,Cold Cold Feeling,104,14,261929,100,43
+109,Lonely Avenue,104,14,292022,100,24
+110,Good Morning Little Schoolgirl,104,14,278648,100,20
+111,Dust My Broom,104,14,299311,100,24
+112,Gimme' Some Lovin,104,14,227239,100,35
+113,Everybody Needs Somebody to Love,104,14,195186,100,24
+114,Black Magic Woman,104,14,442644,100,31
+115,Steppin' Rooster,104,14,704862,100,21
+116,Our Love is Drifting,104,14,292649,100,15
+117,Doin' 100,104,14,343980,100,20
+118,Mother Joy,118,118,287294,NULL,463
+119,Soldier's Lament,118,118,347193,NULL,371
+120,Dulaman,118,118,223007,NULL,403
+121,The Arrow,118,118,319869,NULL,416
+122,Spanish Eyes,118,118,259030,NULL,375
+123,Banana Bay,118,118,198060,NULL,403
+124,Aguas De Marco,118,118,179408,NULL,407
+125,Tamborea,118,118,235389,NULL,355
+126,Gone,118,118,196414,NULL,362
+127,The Immigrant,118,118,362631,NULL,350
+128,Pahrump-Big Water,118,118,191634,NULL,342
+129,Seeker's Quest,118,118,236434,NULL,337
+130,Floating To Forever,118,118,351686,NULL,337
+131,Open Road,131,131,318563,NULL,10
+132,Ruby,132,132,205008,NULL,13
+133,The Angry Mob,132,132,288313,NULL,41
+134,Heat Dies Down,132,132,237061,NULL,12
+135,Highroyds,132,132,199575,NULL,10
+136,Love's Not A Competition (But I'm Winning),132,132,197799,NULL,11
+137,Thank You Very Much,132,132,157753,NULL,11
+138,I Can Do It Without You,132,132,204199,NULL,11
+139,My Kind Of Guy,132,132,246595,NULL,10
+140,Everything Is Average Nowadays,132,132,164754,NULL,16
+141,Learnt My Lesson Well,132,132,325955,NULL,9
+142,Try Your Best,132,132,222511,NULL,8
+143,Retirement,132,132,237426,NULL,10
+144,The Angry Mob [Live From Berlin],132,132,279066,NULL,40
+145,I Like To Fight,132,132,218566,NULL,8
+146,From The Neck Down,132,132,147226,NULL,15
+147,The Wisdom of Crowds: Why the Many Are Smarter than the Few Part 1 of 3,147,147,8586749,NULL,15
+148,The Wisdom of Crowds: Why the Many Are Smarter than the Few Part 2 of 3,147,147,8443432,NULL,9
+149,The Wisdom of Crowds: Why the Many Are Smarter than the Few Part 3 of 3,147,147,4168829,NULL,3
+150,The Wisdom of Crowds: Why the Many Are Smarter Than the Few (Unabridged) Part 1 of 5,150,150,7920893,NULL,4
+151,The Wisdom of Crowds: Why the Many Are Smarter Than the Few (Unabridged) Part 2 of 5,150,150,7921106,NULL,NULL
+152,The Wisdom of Crowds: Why the Many Are Smarter Than the Few (Unabridged) Part 3 of 5,150,150,7965736,NULL,NULL
+153,The Wisdom of Crowds: Why the Many Are Smarter Than the Few (Unabridged) Part 4 of 5,150,150,9653330,NULL,1
+154,The Wisdom of Crowds: Why the Many Are Smarter Than the Few (Unabridged) Part 5 of 5,150,150,746536,NULL,NULL
+155,Misty,155,155,249312,NULL,302
+156,My Funny Valentine,155,155,235885,NULL,301
+157,Since I Don't Have You,155,155,251846,NULL,288
+158,Tenderly,155,155,227395,NULL,284
+159,When I Fall In Love,155,155,187768,NULL,281
+160,Unforgettable,155,155,272927,NULL,280
+161,The Way You Look Tonight,155,155,247222,NULL,277
+162,I've Grown Accustomed To Your Face,155,155,148035,NULL,280
+163,Smoke Gets In Your Eyes,155,155,198504,NULL,277
+164,Fly Me To The Moon,155,155,182543,NULL,275
+165,Unchained Melody,155,155,259369,NULL,265
+166,These Foolish Things Remind Me Of You,155,155,184711,NULL,267
+167,La Vie En Rose,155,155,276767,NULL,259
+168,As Time Goes By,155,155,257985,NULL,290
+169,Pilot,169,169,3847006,NULL,1
+170,hte postal service - the impor,170,170,193959,NULL,NULL
+171,Winter Wonderland,171,171,144744,NULL,163
+172,Jingle Bells,171,171,121756,NULL,271
+173,White Christmas,171,171,95634,NULL,158
+174,The Christmas Song,171,171,209632,NULL,272
+175,Little Drummer Boy,171,171,178311,NULL,154
+176,Silent Night,171,171,149054,NULL,257
+177,Let It Snow,171,171,125126,NULL,154
+178,Mistletoe And Holly,171,171,138501,NULL,257
+179,O Holy Night,171,171,214021,NULL,150
+180,Have Yourself A Merry Little Christmas,171,171,208248,NULL,252
+181,Do You Hear What I Hear,171,171,164728,NULL,155
+182,I'll Be Home For Christmas,171,171,190876,NULL,249
+183,Voices,183,183,191764,NULL,NULL
+184,The Game,183,183,227134,NULL,1
+185,Stupify,183,183,274233,NULL,1
+186,Down With The Sickness,183,183,278726,NULL,1
+187,Violence Fetish,183,183,203833,NULL,NULL
+188,Fear,183,183,227004,NULL,4
+189,Numb,183,183,224940,NULL,NULL
+190,Want,183,183,232803,NULL,NULL
+191,Conflict,183,183,275330,NULL,5
+192,Shout 2000,183,183,257802,NULL,1
+193,Droppin' Plates,183,183,229302,NULL,4
+194,Meaning Of Life,183,183,242599,NULL,3
+196,Eben Upton: Raspberry Pi,196,195,661368,NULL,2
+197,Andrew Tanenbaum: Writing the Book on Networks,196,195,535040,NULL,4
+198,Massimo Banzi: Building Arduino,196,195,567745,NULL,1
+209,John C. Hollar: History of Computing,196,195,694073,NULL,1
+210,Bob Metcalfe: Ethernet at Forty,196,195,1031392,NULL,NULL
+211,Gordon Bell: Building Blocks of Computing,196,195,744620,NULL,1
+212,Ian Horrocks: Standardizing OWL,196,195,572212,NULL,1
+213,Katie Hafner: The Origins of the Internet,196,195,652460,NULL,1
+214,Larry Smarr: Building Mosaic,196,195,894693,NULL,NULL
+215,Len Kleinrock: The Theory of Packets,196,195,674742,NULL,1
+216,Mitchell Baker: The Mozilla Foundation,196,195,994246,NULL,NULL
+217,Pooja Sankar: Building the Piazza Collaboration System,196,195,496404,NULL,NULL
+218,Van Jacobson: Content-Centric Networking,196,195,780251,NULL,NULL
+219,The Apache Software Foundation,196,195,542484,NULL,NULL
+220,A Brief History of Packets,196,195,1004643,NULL,NULL
+221,Discovering JavaScript Object Notation,196,195,650971,NULL,NULL
+222,Inventing PHP,196,195,494915,NULL,NULL
+223,Monash Museum of Computing History,196,195,362657,NULL,NULL
+224,The Rise of JavaScript,196,195,526132,NULL,NULL
+225,Joseph Hardin: NCSA Mosaic,196,195,845635,NULL,NULL
+226,Len Kleinrock on the Internet's First Two Packets,196,195,594390,NULL,1
+227,Doug Van Houweling on Building the NSFNet,196,195,773146,NULL,NULL
+228,Computing Conversations: Nathaniel Borenstein on MIME,196,195,682135,NULL,NULL
+229,You Don't Mess Around With Jim,229,229,184398,NULL,NULL
+230,Andrew S. Tanenbaum on MINIX,196,195,603000,NULL,NULL
+231,Computing Conversations: Elizabeth Fong on SQL Standards,196,195,533577,NULL,NULL
+232,Nii Quaynor on Bringing the Internet to Africa,196,195,673332,NULL,1
+233,PHP-09-Transactions.mp3,233,195,1728888,NULL,NULL
+234,PHP-01-Intro.mp3,233,195,2250624,NULL,NULL
+235,PHP-02-Install.mp3,233,195,NULL,NULL,1
+236,PHP-04-Expressions.mp3,233,195,2168064,NULL,NULL
+237,PHP-05-Functions.mp3,233,195,1446792,NULL,NULL
+238,PHP-06-Strings.mp3,233,195,417696,NULL,NULL
+239,PHP-12-Sessions.mp3,233,195,3624312,NULL,NULL
+240,PHP-06-Objects.mp3,233,195,2455368,NULL,NULL
+241,SI664-13-JSON-A.mp3,233,195,4407672,NULL,NULL
+242,PHP-13-JavaScript.mp3,233,195,3650088,NULL,NULL
+243,PHP-09-Database-Design.mp3,233,195,3591072,NULL,NULL
+244,PHP-Tsugi-Install.mp3,233,195,3181656,NULL,NULL
+245,PHP-10-MySQL-PDO.mp3,233,195,4536685,NULL,NULL
+246,PHP-08-MySQL.mp3,233,195,3994656,NULL,NULL
+247,SI664-13-JSON-B.mp3,233,195,1484616,NULL,NULL
+248,IMS-Learning-Tools-Interoperability.mp3,233,195,2185848,NULL,NULL
+249,An Interview with Don Waters,249,249,1411082,NULL,2
+250,PY4INF-11-Regex.mp3,195,195,2123702,NULL,NULL
+251,PY4INF-10-Tuples.mp3,195,195,1597596,NULL,NULL
+252,PY4INF-09-Dictionaries.mp3,195,195,2254445,NULL,NULL
+253,PY4INF-08-Lists.mp3,195,195,1636231,NULL,NULL
+254,PY4INF-07-Files.mp3,195,195,1478713,NULL,NULL
+255,PY4INF-06-Strings.mp3,195,195,1677844,NULL,NULL
+256,PY4INF-05-Iterations.mp3,195,195,2804297,NULL,NULL
+257,PY4INF-04-Functions.mp3,195,195,1683800,NULL,NULL
+258,PY4INF-03-Conditional.mp3,195,195,2296058,NULL,NULL
+259,PY4INF-02-Expressions.mp3,195,195,2578416,NULL,NULL
+260,PY4INF-01-Intro.mp3,195,195,3428075,NULL,NULL
+261,Py4Inf-11-Regex.mp3,195,195,2123702,NULL,NULL
+262,Py4Inf-10-Tuples.mp3,195,195,1597596,NULL,NULL
+263,Py4Inf-09-Dictionaries.mp3,195,195,2254445,NULL,NULL
+264,Py4Inf-08-Lists.mp3,195,195,1636231,NULL,NULL
+265,Py4Inf-07-Files.mp3,195,195,1478713,NULL,NULL
+266,Py4Inf-06-Strings.mp3,195,195,1677844,NULL,NULL
+267,Py4Inf-05-Iterations.mp3,195,195,2804297,NULL,NULL
+268,Py4Inf-04-Functions.mp3,195,195,1683800,NULL,NULL
+269,Py4Inf-03-Conditional.mp3,195,195,2296058,NULL,NULL
+270,Py4Inf-02-Expressions.mp3,195,195,2578416,NULL,NULL
+271,Py4Inf-01-Intro.mp3,195,195,3428075,NULL,NULL
+272,Ian Foster on the Globus Project,196,195,538305,NULL,1
+273,Khan Academy and Computer Science,196,195,558837,NULL,1
+274,Guido van Rossumon the Early Years of Python,196,195,701884,NULL,1
+275,Guido van Rossum on the Modern Era of Python,196,195,741616,NULL,NULL
+276,John Resig on Building jQuery,196,195,595983,NULL,NULL
+277,Roy T. Fielding on Understanding the REST Style,196,195,683650,NULL,1
+278,Anil Jain: 25 Years of Biometric Recognition,196,195,661368,NULL,NULL
+279,Waste Management,279,279,2565232,NULL,1
+280,Sleep Like a Baby Tonight,280,1,301641,NULL,NULL
+281,Evergreen,281,1,261373,NULL,NULL
+282,Oh Josephine,281,1,398907,NULL,NULL
+283,Movin' On Down the Line,281,1,342693,NULL,NULL
+284,Wounded Bird,281,1,263453,NULL,NULL
+285,Volcano,280,1,194116,NULL,NULL
+286,Wee Who See the Deep,281,1,290520,NULL,NULL
+287,Cedarwood Road,280,1,265268,NULL,NULL
+288,Locust Street,281,1,255240,NULL,NULL
+289,Raised By Wolves,280,1,245599,NULL,NULL
+290,The Troubles,280,1,285843,NULL,NULL
+291,This Is Where You Can Reach Me Now,280,1,305134,NULL,NULL
+292,God's Got It,281,1,202653,NULL,NULL
+293,California (There Is No End to Love),280,1,239846,NULL,NULL
+294,Every Breaking Wave,280,1,252162,NULL,NULL
+295,Interview With the Onion News Network,295,295,302002,NULL,1
+296,Song for Someone,280,1,226763,NULL,NULL
+297,The Miracle (Of Joey Ramone),280,1,255382,NULL,NULL
+298,Iris (Hold Me Close),280,1,319457,NULL,NULL
+299,Goodbye Daughters of the Revolution,281,1,304147,NULL,NULL
+300,Walk Believer Walk,281,1,280253,NULL,NULL
+301,Choice Hotels International,301,279,2614047,NULL,1
+302,Microchip,302,302,114336,NULL,NULL
+303,Anant Agarwal,196,195,494000,NULL,NULL

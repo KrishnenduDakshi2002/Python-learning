@@ -1,0 +1,12 @@
+
+we can convert .db file to .sqlite or
+.sqlite to .db  just by changing those extension; no need for creating anohter
+database
+
+
+
+you can create a .sql file to run query on a particular database
+that .sql file cann't be use to run query for another database.
+
+so for each database you have to create their new sql file to execute 
+queries 

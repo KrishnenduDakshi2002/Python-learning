@@ -16,6 +16,7 @@ for line in fhandle:
     domainName = re.findall('.*@(.*)',EmailId)[0]
     curr.execute('SELECT count FROM Counts WHERE org = ?',(domainName,))
     row = curr.fetchone()
+
     if row is None:
         curr.execute("INSERT INTO Counts(org,count) VALUES ( ? , 1)",(domainName,))
     else:
