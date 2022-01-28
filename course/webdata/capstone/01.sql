@@ -1,0 +1,1 @@
+UPDATE pages SET html='hello world' WHERE pages.url = 'http://python-data.dr-chuck.net';
